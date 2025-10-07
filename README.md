@@ -1,8 +1,6 @@
 # Data Science with Machine Learning – Beginner Course
 
-Welcome to the **Data Science with Machine Learning** repository! This repo contains beginner-friendly materials and projects to help you get started with Data Science and basic Machine Learning concepts.
 
-Whether you are starting your data science journey or looking for structured learning resources, this collection will guide you step-by-step.
 
 ---
 
